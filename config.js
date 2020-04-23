@@ -168,7 +168,7 @@ var app = new Vue({
         简介: "Réalisation dans le cadre de l'UE GL02 à l'UTT a pour but d'extraire des données à partir de fichier contenant des tweets stockés au format .csv."
       }, {
         名称: 'Website de présentation',
-        地址: '',
+        地址: 'https://yiyi1998.github.io/Website-de-CV-Yiyi-Chen/.',
         图片: 'images/user.png',
         简介: "Un site pour CV d'Yiyi Chen"
       }
